@@ -1,0 +1,44 @@
+2017-03-27 09:01:31,589 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-03-27 09:01:31,734 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-03-27 09:01:34,419 - [WARN] - from org.deeplearning4j.nn.conf.MultiLayerConfiguration in main
+                
+Warning: new network default sets pretrain to false.
+
+2017-03-27 09:01:34,419 - [WARN] - from org.deeplearning4j.nn.conf.MultiLayerConfiguration in main
+                
+Warning: new network default sets backprop to true.
+
+2017-03-27 09:02:09,401 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-03-27 09:02:09,471 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-03-27 09:02:12,236 - [WARN] - from org.deeplearning4j.nn.conf.MultiLayerConfiguration in main
+                
+Warning: new network default sets pretrain to false.
+
+2017-03-27 09:02:12,237 - [WARN] - from org.deeplearning4j.nn.conf.MultiLayerConfiguration in main
+                
+Warning: new network default sets backprop to true.
+
+2017-03-27 09:02:15,283 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+UI Server started at http://localhost:9000
+
+2017-03-27 09:02:15,580 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: FileStatsStorage(/Users/ow/dl4j/UIdata)
+
+2017-03-27 09:02:16,953 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
