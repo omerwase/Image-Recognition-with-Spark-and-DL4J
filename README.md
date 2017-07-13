@@ -1,5 +1,6 @@
 # Image-Recognition-with-Spark-and-DL4J
-Distributed Image recognition with Convolutional Neural Networks using Spark and Deeplearning4J. CNN models adapted from examples on [Deeplearning4J](https://deeplearning4j.org).  
+Distributed Image recognition with Convolutional Neural Networks using Spark and Deeplearning4J. CNN models adapted from examples on [Deeplearning4J](https://deeplearning4j.org). 
+
 This repo contains a maven project with two sub-projects:
 ## 1) Local
 The local project trains the CNNs using the local computer (either with CPU or GPU if available).
